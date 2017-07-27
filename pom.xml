@@ -45,6 +45,9 @@
 			</plugin>
 		</plugins>
 	</build>
+	<scm>
+		<developerConnection>scm:git:https://github.com/AleGallagher/Prueba1.git</developerConnection>
+	</scm>
 
 	<distributionManagement>
 		<repository>
