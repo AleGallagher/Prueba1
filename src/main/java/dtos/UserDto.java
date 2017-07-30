@@ -22,7 +22,7 @@ public class UserDto {
     @Length(max = 50, message = "error.user.password.length")
     private String password;
 
-    //as
+    //ass
 
     @NotBlank(message = "error.user.telephone.notBlank")
     @Length(max=20, message = "error.user.telephone.length" )
